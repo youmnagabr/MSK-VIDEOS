@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1" 
+	</head>
+	<body>
+		<h1>💪MSK MONDAYS💪</h1>
+		<h2></h2>
+	
+		Hello! The <u><b>PM&R Interest Group</b></u> at Wayne State School of Medicine welcomes you to view the <b><i>High-Yield MSK Mondays Review Series</i></b> conducted by PM&R residents. The series consists of 6 videos (of recorded live zoom sessions) with their associated ppts/notes and is intended as review of the musculoskeletal system for all medical students (years 1-4) as well as residents. Keep checking back in as we continue updating this page with more resources, questions, and other learning tools! We hope this helps you in your education, and wish you the best of luck studying!
+		<br><br>
+		<b>PS:</b> If you are interested in staying updated on future PM&R IG projects, <a href="https://forms.gle/RcTCZbuLhm8eSCF19"target="_blank"> sign up for our email list!</a></li> 
+		<br> If you have any questions please email fp9455@wayne.edu.
+		<hr>
+		
+	</body>
+		<br>
+		<b><a href="https://zoom.us/rec/play/I8VvVSFMcVp93-ui1Wa1N5hPn2qPhj1L04z4KH6ejaY0dAwi3oa6jj-heIsayNtrI7kwGnAKOoUcst2x.NbbVwaYytYPRAi2j?startTime=1592514286000&_x_zm_rtaid=PkL8t1goTRGoqTivD4EigQ.1599076894536.cc47496b73f9852360d4dacaedfcc019&_x_zm_rhtaid=712"target="_blank">MSK Review Video #1: Ortho</a></b>
+			<br><br>
+			<li><a href="file:///C:/Users/Heidi/Downloads/(PDF)%20High-Yield%20MSK%20Session%20%231%20PPT%20(ORTHO).pdf"target="_blank">Ortho Slides</a></li> 
+			<li><a href="https://drive.google.com/file/d/1XXbNRFg9DqjWwYNtmOfLwSmSBMz6Fb3H/view"target="_blank">Ortho Notes</a></li>
+			<li><a href="https://drive.google.com/file/d/1SAZ-V4rLRXbEIYZNmNgR3XwAR72uSuJI/view"target="_blank">Rhem Notes</a></li>
+		<br>
+		<hr>
+		<b><a href="https://zoom.us/rec/play/KqwrgcMoXv-z_TIy9KumqjUS35x_eySKh_i0Xu2yDUCmxukjwY9Xh0HJAEUagFb5ola48HgVSwc1TAI.odIxpPgZeSbGMb2Y?startTime=1592947067000&_x_zm_rtaid=PkL8t1goTRGoqTivD4EigQ.1599076894536.cc47496b73f9852360d4dacaedfcc019&_x_zm_rhtaid=712"target="_blank">MSK Review Video #2: Brachial Plexus & Shoulder</a></b>
+			<br><br>
+			<li><a href="https://cvws.icloud-content.com/B/AYZOiLopNzGkgVjmDJxgehl_zvq7AWrGvF7pmXh-dtcj2ubjBm5fYiZr/MSK+Shoulder+Slides+.pdf?o=AoKIIuzKL4XYBXiad648wqf8flqQT3JyuOpZKLCAKipG&v=1&x=3&a=CAogpXtPkUD4QJ2iKbL2_4pomBHsB1shetSTMYaGM9uLC4MSbRC0n-mFxS4Y1JaghsUuIgEAUgR_zvq7WgRfYiZraiYXGVZkuejHxPI_wB4W8VYvFOd_yc50fqIYkwwIQeMB348TEW2mInImForEP1SMWAV_PHQ3pTR9rGHCSBYCX18ABv53lqCMITXo69Eu06w&e=1599083121&fl=&r=4dc43f85-d1f9-43be-bfce-8c12385fae3f-1&k=sI_4vHNFvE2U35any9wQYw&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=16&s=as5G53o8rjC78ff5VeBRy5H3zzI&cd=i"target="_blank">Shoulder Slides</a></li>
+			<li><a href="https://cvws.icloud-content.com/B/Ac6TFDVNVRIqTWi8p3lV4cprZdCkATXnv9e4c2p0k-1l7lXA-qKYBZ9t/Practice+Questions+-+MSK+High-Yield+Session+2+%281%29.pdf?o=Ago0Hzpwuusl5LYfyA0Mn2wEKTd-9Pn2YesgLyBAtPYM&v=1&x=3&a=CAogsphKeDAfaQPb99-OYjMwzhO18pI3ttG3mVQ6hv7MV3oSbRC8zdiFxS4Y3MSPhsUuIgEAUgRrZdCkWgSYBZ9taiY1EokP7II_qc1yBczBQENGQu57UutEf-5BtwbqaN3dh1nXW2kLnXImCE0lJ7lNhmdhv0KzrLGtuTWNYfDcaK-RxvAB0JCDnnwpcfCz52g&e=1599082848&fl=&r=6006c913-b429-4060-923d-e0e9c8bf5ee7-1&k=ZAdxjaaiPUVMXMzyTt98yQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=16&s=KBsIZh7Jl5nGFhXxNGQyzCdMRkE&cd=i"target="_blank">Shoulder Questions</a></li>
+			<br>
+			<hr>
+		<b><a href="https://us02web.zoom.us/rec/play/PxrV8FJiW1Kz4AGOFQ-gtg9xuy-RgW8fCTCbuw2lYxRw5wdzsXeLKk4SfpTeGZ_qYIb505sAKJ-6TDGG.xcQS83B8zNXLKOJb?continueMode=true&_x_zm_rtaid=PkL8t1goTRGoqTivD4EigQ.1599076894536.cc47496b73f9852360d4dacaedfcc019&_x_zm_rhtaid=712"target="_blank">MSK Review Video #3: Brachial Plexus & Elbow</a></b>
+			<br><br>
+			<li><a href="https://cvws.icloud-content.com/B/AR6SITAgMEF40hInhKsX5iS-RbZ5AXKhI9v2NNXgM5ieFCjhpOb8QOdn/MSK+Elbow++SLIDES+%281%29.pdf?o=Agmclic7RyRVVf9OUMU6Xk01aeZ8YjCEJmq1swKy8lt2&v=1&x=3&a=CAogAEJBElE_dcgVbpkpDZ8eJZ8eryhaffHyitl0DCmmuF0SbRC81o6GxS4Y3M3FhsUuIgEAUgS-RbZ5WgT8QOdnaiaiRBHGy_9RAYfLHnjO2a7OwWnVIEIF2NQwz51c9QqWYP3Aw7Ci_HImVjLKrpDKVPQB90bHLXlMpsjsoIq0On3dDrj2_LIHGl5K-aVfpaM&e=1599083734&fl=&r=6258eeca-f00e-47f6-a5c5-3b7bf12e99a4-1&k=Isu3_xfl9p2gNyqy9ihLkg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=16&s=X8c4bsIDqU7R6M21Pr_jfo3OvCQ&cd=i"target="_blank">Elbow Slides</a></li>
+			<li><a href="https://cvws.icloud-content.com/B/Ad90W3XQBs4z9yrUfznJ-hn0-BluAavl6rlEoEZuqDLxLducj6luclX-/MSK+Elbow+High+Yields.pdf?o=Aj3aGvZaOEEsGa7QJ8wI13_fPyk1McgSVLK-cRrVPFo6&v=1&x=3&a=CAogsVaeFP9dKVQ8uA1HnakyM0p21ns6WQEvd21baF_FA14SbRD58ruGxS4YmeryhsUuIgEAUgT0-BluWgRuclX-aiYxcw3rMWqzPkNfENwKI14oHy1-LWUpScouG0bn2oZeDLlLzxRFV3ImY91OvtM9wphmUAFtcIkDEJmPvcmKbHOaJVXdhFz0Cw8UadXlGuw&e=1599084475&fl=&r=1abc9a3b-0e27-4e14-bcc2-8ad399cb234a-1&k=9KwJFSzG-ln2nAkARo7ySg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=16&s=y92OSZO-g0XFN08Rakf5Uy-tIC4&cd=i"target="_blank">Elbow Notes</a></li>
+			<br>
+			<hr>
+		<b><a href="https://www.icloud.com/attachment/?u=https%3A%2F%2Fcvws.icloud-content.com%2FB%2FASSYtElB0Ybd9AfC_ILXdFd-ToqaAXHBmVFC2a8uVsUwQh1B8uRp9S9t%2F%24%7Bf%7D%3Fo%3DArnTBMoAao43UYtWmKH4prwj4eehLxy4iShiLJdvDvXO%26v%3D1%26x%3D3%26a%3DCAognY01oEQmgnzZbDPxCE92NmraR_9Y59ucTjAfhauznDESdxDxy8-OwC4Y8dvK4skuIgEAKggByAD_Pw8A31IEfk6KmloEafUvbWomt6JCGKVy8o0GH0HCFCX35p9S59k2Jb1tcNWu-L1tOBJPzHfLnE5yJoBbbPix0DHZyue4_0AHBPhs9BvqdAXAfiWpK0INbXncDlzLadxN%26e%3D1600350498%26fl%3D%26r%3DBA002D2E-395E-4482-B0B5-C559B990791E-1%26k%3D%24%7Buk%7D%26ckc%3Dcom.apple.largeattachment%26ckz%3DACA315B3-F27D-44A6-BF05-06436BFE2470%26p%3D17%26s%3DLqAAQ9gSXSVvj-_zh_o_TaLQVCo&uk=XmZW5JVqItoscmY4hO9gMA&f=zoom_0.mp4&sz=626471755"target="_blank">MSK Review Video #4: Wrist/Hand***</a></b>
+			<br><br>
+			<li><a href="https://cvws.icloud-content.com/B/AVNJRYe3Uf3MvFw4focjo0oqsJvlAaKRMe0X6uSSSJ7DKqQLUcGt5TDx/Wrist+Hand+SLIDES.pdf?o=AozuRxhnaJepK149376Kla0bf_6lBnNmuXxw9fzRcMQ-&v=1&x=3&a=CAogo1P257MqsvPM2dpog77yknSgz6Aqv64bYHxljIzjLSMSbRDfl8SGxS4Y_477hsUuIgEAUgQqsJvlWgSt5TDxaiaupeH5bWUQ1LE1HPPCYitrjO_WWy2kPJw9S1ENBZJFd3YnZTaBW3Im7OS3jUmMQKF8eSHwX_2g9VeuRYPxLLFPVheWhsZ7V96WtZwkbXc&e=1599084611&fl=&r=66837c50-05c5-4065-b0c5-76c1f58e3501-1&k=hFWkSi8-UGWewB8NRWIchQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=16&s=ZmiVKLVkP92kGwBg4FeOGLqFo8I&cd=i"target="_blank">Wrist/Hand Slides</a></li>
+			<br>
+			<hr>
+		<b><a href="https://zoom.us/rec/play/6aqhrk1Ne0NFtfjpbkAqGMsadSX95SnjFBxyCf_0tD9GkfUeSRmuYWQQc-oC6mmxfn9vQ2qKiNCFTJra.M28IzsKkFUgl9nAR?startTime=1598908219000"target="_blank">MSK Review Video #5: Hip/Low Back/Pelvis</a></b>
+			<br><br>
+			<li><a href="https://cvws.icloud-content.com/B/AXAZhEyTslZHcnmfHctaXcFj0zYHARXeb8K-ZpW4-cAfYCfPjV2wqEMX/MSK+Hip+Pelvis+SLIDES.pdf?o=Ah8vgNVdDlEUi9CXbpJOZZO4M51UUWHtOKsCeRPz0AkH&v=1&x=3&a=CAogIWkKvENUrawf6xmS1dcSL1oGFrl7P3u1MGHnj80H0d0SbRCO3M-GxS4YrtOGh8UuIgEAUgRj0zYHWgSwqEMXaiaDVk2nIn8W1QO0AcKehBhn0zp5sSIyak1VINkBHfo8xij9psc4e3ImSlu1rPBuVE0wk96DbCFvYgMIarW5mQFBHAqE8T66Q1y7PDqjowo&e=1599084800&fl=&r=d26937ad-c9b7-4b6c-80e4-b85f65ca8467-1&k=obRjzeV5yIaPNUNf6DHRdA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=16&s=35PVR5aCWM7LnRJArByH2EDnJdQ&cd=i"target="_blank">Hip/Low Back/Pelvis Slides</a></li>
+			<br>
+			<hr>
+		<b><a href="https://zoom.us/j/92369644319"target="_blank">MSK Review Video #6: Lower Extremity (zoom link for 9/21/20 session)</a></b>
+			<br><br>
+			<li><a href="insertlinkhere"target="_blank">Knee/Ankle/Foot Slides (to be posted)</a></li>
+		<br><br><br><br><br><br>
+		 
+		<br><br><br><br><br><br>
+		<br><br><br><br><br><br><br><br><br><br><br><br>
+</html>
